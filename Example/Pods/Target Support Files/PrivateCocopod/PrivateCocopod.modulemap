@@ -1,0 +1,6 @@
+framework module PrivateCocopod {
+  umbrella header "PrivateCocopod-umbrella.h"
+
+  export *
+  module * { export * }
+}

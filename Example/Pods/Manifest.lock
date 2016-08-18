@@ -1,0 +1,16 @@
+PODS:
+  - PrivateCocopod (0.1.0)
+
+DEPENDENCIES:
+  - PrivateCocopod (from `../`)
+
+EXTERNAL SOURCES:
+  PrivateCocopod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PrivateCocopod: 97eaf9667cd0c3b24dc305536f312393290afc12
+
+PODFILE CHECKSUM: 04674322893b947ba93a8585628182b7a78d9231
+
+COCOAPODS: 1.0.0

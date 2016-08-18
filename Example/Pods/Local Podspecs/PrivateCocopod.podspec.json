@@ -1,0 +1,22 @@
+{
+  "name": "PrivateCocopod",
+  "version": "0.1.0",
+  "summary": "A short description of PrivateCocopod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PrivateCocopod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pudgeli": "402265710@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PrivateCocopod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrivateCocopod/Classes/**/*"
+}
