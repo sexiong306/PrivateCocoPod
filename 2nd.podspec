@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'PrivateCocopod'
+  s.name             = '2nd'
 s.version          = '0.1.0'
   s.summary          = 'test'
 
@@ -27,7 +27,7 @@ s.version          = '0.1.0'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'PrivateCocopod/Classes/**/*'
+  s.source_files = 'Example/PrivateCocopod/*.{h,m}'
   
   # s.resource_bundles = {
   #   'PrivateCocopod' => ['PrivateCocopod/Assets/*.png']
